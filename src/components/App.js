@@ -3,7 +3,7 @@ import "../styles/App.css";
 
 class App extends Component {
   render() {
-    relatives = ["Ruby", "Alok", "Akash", "Jyoti"];
+    let relatives = ["Ruby", "Alok", "Akash", "Jyoti"];
     return (
       <>
         <ol key="relativeList">
